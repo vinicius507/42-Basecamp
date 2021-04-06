@@ -6,7 +6,7 @@
 /*   By: vgoncalv <vgoncalv@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/02 02:43:55 by vgoncalv          #+#    #+#             */
-/*   Updated: 2021/04/04 02:31:34 by vgoncalv         ###   ########.fr       */
+/*   Updated: 2021/04/06 16:18:40 by vgoncalv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 void	ft_print_combn(int n)
 {
 	int		i;
-	char	nbr[n];
+	char	nbr[9];
 
 	i = -1;
 	while (++i < n)

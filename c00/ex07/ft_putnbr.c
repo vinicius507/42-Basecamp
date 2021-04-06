@@ -6,11 +6,10 @@
 /*   By: vgoncalv <vgoncalv@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/01 17:45:37 by vgoncalv          #+#    #+#             */
-/*   Updated: 2021/04/02 02:57:21 by vgoncalv         ###   ########.fr       */
+/*   Updated: 2021/04/06 14:04:19 by vgoncalv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include <unistd.h>
 
 void	ft_putnbr(int nb)
