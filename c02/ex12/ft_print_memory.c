@@ -6,12 +6,11 @@
 /*   By: vgoncalv <vgoncalv@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/04 16:57:19 by vgoncalv          #+#    #+#             */
-/*   Updated: 2021/04/06 16:14:35 by vgoncalv         ###   ########.fr       */
+/*   Updated: 2021/04/07 12:37:45 by vgoncalv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-#include <stdio.h>
 
 unsigned char g_hexa_lookup[16] = {
 	'0', '1', '2', '3', '4', '5', '6', '7',
