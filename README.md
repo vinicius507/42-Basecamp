@@ -15,5 +15,6 @@ Repositório destinado aos exercícios realizados durante o basecamp da 42 São 
 | `c07` | 2 | 100/100 |
 | `c08` | 3 | 100/100 |
 | `c09` | 2 | 100/100 |
+| `c10` | 0 | nao finalizado |
 | `rush00` | 1 | 120/100 |
 | `rush01` | 1 | 100/100 |
